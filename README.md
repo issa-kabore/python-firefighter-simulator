@@ -29,5 +29,15 @@ Par conséquent notre projet consiste à créer un simulateur de ce problème en
 <li><em>Diagramme de classes</em> </li>
 </ul>
 
+![image](https://user-images.githubusercontent.com/78427456/218075278-e6b6fe96-b8ff-44bc-8142-8dbb2bdd1027.png)
+
+![image](https://user-images.githubusercontent.com/78427456/218074953-279433ef-752a-4247-a625-41214618b044.png)
+
+![image](https://user-images.githubusercontent.com/78427456/218075386-69b55a1d-917d-43f6-8d1d-613b2b29de8c.png)
+
+![image](https://user-images.githubusercontent.com/78427456/218075456-c7760eab-9a1c-41dc-a30e-b9f3491394d1.png)
+
+
+
 
 
