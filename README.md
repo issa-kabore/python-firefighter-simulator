@@ -37,6 +37,8 @@ Par conséquent notre projet consiste à créer un simulateur de ce problème en
 
 ![image](https://user-images.githubusercontent.com/78427456/218075456-c7760eab-9a1c-41dc-a30e-b9f3491394d1.png)
 
+![image](https://user-images.githubusercontent.com/78427456/218075893-45d0db57-d52f-4818-8d6c-939571af75e8.png)
+
 
 
 
